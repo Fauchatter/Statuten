@@ -12,29 +12,18 @@ Dieses Dokument ist ein Anhang der Statuten der FAU Schweiz
 
 1.1 Das Syndikat, das einen GAV unterzeichnen möchte, muss über diesen in einer Sitzung abstimmen. Zu dieser müssen alle ihre Mitglieder ausdrücklich eingeladen werden. Ankündigungen von „regulären” Plenarsitzungen zählen nicht. Die Mitglieder müssen eine Einladung erhalten, in der angegeben ist, dass dieser Punkt auf die Traktandenliste gesetzt wird (per E-Mail oder Post, mindestens 2 Wochen im Voraus).
 
-1.2 Sobald dieser Schritt abgeschlossen ist, muss das Syndikat einen Antrag bei den Syndikaten der FAU (Lokal- und Branchensyndikate) einreichen. Im Antrag müssen genügend Informationen enthalten sein, damit die anderen Syndikate den Mehrwert des betreffenden GAVs für die betroffenen Arbeiter*innen und dessen Übereinstimmung mit den Bestimmungen anderer interner Reglemente und Bestimmungen der FAU bewerten können. 
+1.2 Das mandatierte Branchen- oder Lokalsyndikat ist für alle Fragen im Zusammenhang mit dem genannten GAV zuständig.
 
-1.3 Das Syndikat, welches den Antrag stellt, steht für weitere Informationen zur Verfügung. Die Delegiertenversammlung legt die Dauer einer Konsultations- und Diskussionsfrist fest.
+1.3 Dieses Syndikat muss jedoch darauf achten, dass es nicht nur den Rahmen dieses Mandats einhält, sondern auch alle internen Bestimmungen sowie alle späteren allgemeinen Beschlüsse der Generalversammlung oder der Delegiertenversammlung (mögliche Verhaltenskodizes, strategische Leitlinien, Forderungen oder Ziele usw.).
 
-1.4 Nach Ablauf dieser Frist stimmt die Delegiertenversammlung ab.
+1.4 Die Erneuerung des genannten Tarifvertrags fällt in die Zuständigkeit des beauftragten Syndikats (wiederum
+unter Einhaltung der bereits erwähnten Bestimmungen).
 
-1.5 Im Falle einer Ablehnung kann der Entscheid vor einer ordentlichen oder ausserordentlichen Generalversammlung rekurriert werden
+1.5 Eine mögliche Kündigung muss Gegenstand einer Entscheidung der Syndikatssitzung sein (gleiche Einberufungskriterien wie für die Unterzeichnung).
 
-1.6 Im Falle einer Annahme benennt die Delegiertenversammlung die Mitglieder der FAUKo (die in der Generalversammlung gewählt wurden), die den GAV im Namen der FAU Schweiz unterzeichnen werden, und erarbeitet ein Mandat für das antragsstellende Branchen- oder Lokalsyndikat, um den GAV zu verwalten, zu entwickeln und zu verteidigen. Dieses Mandat wird anschliessend von den FAUKo-Mitgliedern, die zur Unterzeichnung des GAV bestimmt wurden, und von mindestens zwei Personen unterzeichnet, die von einer Sitzung der betreffenden Gewerkschaft gewählt wurden (sie können vorab in der oben genannten Sitzung gewählt werden).
+1.6 Im Streitfall ist eine Berufung an die Generalversammlung (ordentlich oder ausserordentlich) möglich.
 
-
-1.7 Das mandatierte Branchen- oder Lokalsyndikat ist für alle Fragen im Zusammenhang mit dem genannten GAV zuständig.
-
-1.8 Dieses Syndikat muss jedoch darauf achten, dass sie nicht nur den Rahmen dieses Mandats einhält, sondern auch alle internen Bestimmungen sowie alle späteren Beschlüsse der Generalversammlung oder der Delegiertenversammlung berücksichtigt (mögliche Verhaltenskodizes, strategische Leitlinien, Forderungen oder Ziele usw.).
-
-1.9 Die Erneuerung des genannten Tarifvertrags fällt in die Zuständigkeit des beauftragten Syndikats (auch hier unter Einhaltung der bereits erwähnten Bestimmungen).
-
-1.10 Eine mögliche Kündigung muss Gegenstand eines Sitzungsbeschlusses sein (gleiche Einberufungskriterien wie für die Unterzeichnung), der Delegiertenversammlung angekündigt und begründet werden. Die Delegiertenversammlung kann aus triftigen Gründen dagegen Einspruch erheben. Zu diesen Gründen zählen beispielsweise erhebliche Nachteile für die Interessen der Arbeiter:innen, nicht ausgeschöpfte Verhandlungsmöglichkeiten usw. Je nach den Umständen, z. B. Mobilisierung und Kampf, muss die Delegiertenversammlung darauf achten, die Handlungsfähigkeit der Arbeiter:innen nicht zu beeinträchtigen. Das heisst, sie muss gegebenenfalls schnell handeln und entscheiden und den mobilisierten Arbeiter:innen ein massvolles „Risiko” einräumen (vorausgesetzt, die Mobilisierung ist so umfangreich, dass vernünftigerweise mit einem positiven Ausgang zu rechnen ist). Mit anderen Worten: Wenn eine Kündigung durch eine Mobilisierung durch Arbeiter:innen begründet ist, kann die Delegiertenversammlung diese behindern, wenn deren geringfügiger Umfang ein unüberlegtes Risiko mit sich bringt.
-
-1.11 Rekurs ist bei einer ordentlichen oder ausserordentlichen Generalversammlung möglich
-
-1.12 Über alle in diesem Reglement fehlenden Bestimmungen entscheidet eine ordentliche oder ausserordentliche Generalversammlung  oder vorläufig die Delegiertenversammlung, wenn diese es für angebracht hält (je nach Umständen, die Beurteilung bleibt ihr überlassen). 
-
+1.7 Über alle in diesem Reglement nicht enthaltenen Bestimmungen entscheidet die Generalversammlung (ordentlich oder ausserordentlich) oder vorläufig die Delegiertenversammlung, wenn diese es für angemessen hält (je nach den Umständen, die Beurteilung bleibt der Delegiertenversammlung überlassen).
 
 ## 2. Mindestanforderungen, Gewerkschaftspraxis und allgemeine Ausrichtung 
 
