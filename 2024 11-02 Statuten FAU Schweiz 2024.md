@@ -1,7 +1,10 @@
 # Statuten FAU Schweiz
 
-(beschlossen auf der Generalversammlung der FAU Schweiz vom 15. Mai 2021. Ergänzt an der
-Generalversammlung vom 4. November 2023 und 2. November 2024)
+(beschlossen auf der Generalversammlung der FAU Schweiz vom 15. Mai 2021. 
+Ergänzt an den Generalversammlungen vom:
+- 4. November 2023 
+- 2. November 2024
+- 1. November 2025)
 
 ## 1 Präambel
 Die Freie Arbeiter*innen Union (FAU) ist eine anarchosyndikalistische Gewerkschaft. Als solche ist die FAU eine kämpferische Organisation zur Selbsthilfe der Lohnabhängigen, die auf den Grundprinzipien Solidarität, gegenseitige Hilfe und Direkter Aktion beruht und den libertären Sozialismus als Ziel hat. Für die Prinzipien wird bis auf weiteres (Stand 26. 11. 2022) auf die Prinzipienerklärung des Syndikalismus von Rudolf Rocker verwiesen.

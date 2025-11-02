@@ -1,6 +1,10 @@
 # Statuts de la FAU Suisse
 
-(adoptés lors de l'assemblée générale de la FAU Suisse du 15 mai 2021. Complétés lors de l' assemblée générale du 4 novembre 2023 et du 2 novembre 2024)
+(adoptés lors de l'assemblée générale de la FAU Suisse du 15 mai 2021. Complétés lors de l' assemblées générales 
+- du 4 novembre 2023 
+- du 2 novembre 2024
+- du 1 novembre 2025
+)
 
 
 # 1 Préambule
