@@ -65,10 +65,10 @@ Les syndicats locaux sont subdivisés en un syndicat général, ainsi que, le ca
 Lorsque le nombre des membres est trop bas ou leur activité trop faible, ou que d'autres raisons plaident en faveur d'une fusion à plus grande échelle, les membres peuvent se regrouper en syndicats régionaux. Ceux-ci sont sur un pied d’égalité avec les syndicats sectoriels et locaux.
 
 6.2.3   
-Les sections sectorielles et les syndicats de la FAJ peuvent être créés par au moins cinq membres d'un syndicat local appartenant au même secteur ou à la même tranche d'âge.
+Les sections professionnelles sont affiliées à des syndicats locaux et peuvent être fondées par cinq membres d'un syndicat local. Une section professionnelle n'est active que si elle participe au syndicat local correspondant. Les syndicats professionnels sont des fédérations de sections professionnelles et peuvent être fondés par au moins deux sections professionnelles actives. 
 
 6.2.4   
-La Freie Arbeiter*innen Jugend (FAJ) est l'organisation de jeunesse de la FAU. Tous les membres âgés de moins de 25 ans ou en formation (dans des écoles primaires, secondaires et supérieures ou dans le cadre d'un contrat de travail à des fins de formation) font partie de la FAJ.
+La Freie Arbeiter*innen Jugend (FAJ) est l'organisation de jeunesse de la FAU. Tous les membres âgés de moins de 25 ans ou en formation (dans des écoles primaires, secondaires et supérieures ou dans le cadre d'un contrat de travail à des fins de formation) font partie de la FAJ. Cinq membres de la FAJ de la même région peuvent fonder une nouvelle section.
 
 6.2.5   
 La FAJ Suisse est sur un pied d’égalité avec les syndicats sectoriels en matière de droits et d'obligations.
@@ -80,7 +80,7 @@ Lorsqu'il n'existe pas de syndicat local, le syndicat régional ou local le plus
 Les régions originales de la FAU: Centre (Berne, Soleure, Bâle, Valais, Fribourg), Romandie (Suisse francophone), Suisse centrale (Lucerne, Zoug, Unterwald, Schwyz, Uri, Tessin) et Est (Zurich, Argovie, Thurgovie, Saint-Gall, Grisons, Appenzell, Glaris, Schaffhouse) sont dissoutes. Les régions actuellement existantes sont libres de continuer à fonctionner comme des syndicats régionaux égaux à des syndicats locaux ou alors de se dissoudre.
 
 6.4     
-Au moins cinq membres affiliés à l'USS Suisse provenant de la même région ont le droit de fonder leur propre syndicat régional ou local. Les syndicats peuvent être fondés en cours d'année et sont confirmés formellement lors de l'assemblée générale suivante.
+Les syndicats locaux ne peuvent être désignés que par décision de l'AG. Pour cela, ils doivent être présentés sous forme d'initiative à l'AG. Au minimum sept membres de la FAU Suisse issus de la même région peuvent se regrouper pour former une initiative syndicale. Celle-ci ne peut se présenter à l'AG que si ses membres ont organisé au moins deux formations sur le travail syndical et/ou le droit du travail et qu’ils ont travaillé pendant au moins six mois dans le domaine du travail syndical dans un syndicat local existant.
 
 
 # 7 Réunions
