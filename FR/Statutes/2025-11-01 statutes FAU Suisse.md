@@ -5,6 +5,7 @@
 
 # 1 Préambule
 La Freie Arbeiter*innen Union (FAU) est un syndicat anarcho-syndicaliste. En tant que telle, la FAU est une organisation militante d'entraide pour les salarié·e·s, qui repose sur les principes fondamentaux de solidarité, d'entraide et d'action directe et qui a pour objectif le socialisme libertaire.
+La FAU représente les intérêts de ses membres, en particulier dans le monde du travail, et lutte pour de meilleures conditions de travail. La FAU peut représenter ses membres, par exemple pour signer en leur nom des conventions collectives (conventions collectives de travail).
 Pour l’instant (état au 26 novembre 2022), ces principes renvoient à la déclaration des principes du syndicalisme de Rudolf Rocker.
 
 # 2 Forme juridique
@@ -195,6 +196,9 @@ Les membres en conflit décident des tactiques à adopter dans le cadre du confl
 
 13.2    
 La FAU Suisse soutient les membres en conflit par tous les moyens à sa disposition.
+
+13.3    
+Les conditions dans lesquelles la FAU peut signer et conclure des conventions collectives (notamment des conventions collectives de travail) sont définies dans l'annexe aux statuts «Règlement CCT». Les éléments relatifs aux procédures, aux mandats, à l'administration, aux lignes directrices générales et à d'autres questions sont également définis dans cette annexe. Les syndicats au sein de la FAU peuvent signer et conclure des conventions collectives dans ces conditions.
 
 
 -- Fin --

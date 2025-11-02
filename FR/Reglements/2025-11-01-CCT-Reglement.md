@@ -1,0 +1,122 @@
+# Règlement CCT
+Ce document est une annexe des statuts de la FAU Schweiz
+
+
+## Table des matières
+- [1. Procédures concernant les signatures et dénonciations ainsi que les attributions des mandats](#1-procedures-concernant-les-signatures-et-denonciations-ainsi-que-les-attributions-des-mandats)
+
+- [2. Conditions minimales à remplir, pratique syndicale et orientation générale à défendre](#2-conditions-minimales-a-remplir-pratique-syndicale-et-orientation-generale-a-defendre)
+- [3. Partenariat social](#3-partenariat-social)
+
+## 1. Procédures concernant les signatures et dénonciations ainsi que les attributions des mandats
+
+1.1 Le syndicat voulant signer une CCT doit la faire approuver en séance plénière à laquelle elle convoque spécifiquement tous ses membres. Les annonces de réunions plénières "régulières" ne
+comptent pas. Les membres doivent recevoir une invitation mentionnant que ce point sera porté à l’ordre du jour (par courrier électronique ou postal, 2 semaines avant au minimum).
+
+1.2 En cas d'acceptation,Le syndicat local ou de branche est ainsi mandaté et responsable de toutes les questions concernant
+la dite CCT.
+
+1.3 Toutefois, ce syndicat doit veiller à respecter non seulement le cadre de ce mandat mais également toutes les dispositions internes, ainsi que d'éventuelles décisions générales postérieures de l'assemblée générale ou de l'assemblée des délégués, pertinentes (éventuels codes de conduite, orientations stratégiques, revendications ou objectifs, etc.)
+
+1.4 Le renouvellement de la dite CCT relève de la compétence du syndicat mandaté (encore une
+fois, dans le respect des éventuelles dispositions déjà mentionnées).
+
+1.5 Une éventuelle dénonciation doit faire l'objet d'une décision de séance plénière (mêmes critères de convocation que pour la signature).
+
+1.6 En cas de litige, recours possible à l'assemblée générale (ordinaire ou extraordinaire)
+
+1.7 Toute disposition manquante au présent règlement est tranchée par l'assemblée générale (ordinaire ou extraordinaire) ou de manière provisoire par l'assemblée des délégués si celle-ci le
+juge pertinent (en fonction des circonstances, appréciation laissée à celle-ci)
+
+
+## 2. Conditions minimales à remplir, pratique syndicale et orientation générale à défendre
+
+2.1 La signature d’une CCT par la FAU doit être soutenue par la majorité du personnel ou à minima par la majorité des membres de la FAU, concernés par la CCT en question
+
+2.2 Une CCT doit avoir pour objectif premier d’obtenir une plus-value des conditions de travail des travailleurs et des travailleuses. En d’autres termes, la FAU ne signe pas de CCT pour son « propre intérêt ».
+
+2.3 La FAU, en tant que syndicat de base, agit de manière à développer et renforcer le protagonisme de ses membres et de l’ensemble des travailleurs et travailleuses en général. Concrètement en ce qui concerne une CCT, la FAU s’efforce de capaciter et d’habiliter ses membres afin que celles et ceux qui sont concernés par une CCT puissent directement en prendre la charge. Elle cherche également à en obtenir les moyens matériels (par exemple, décharges syndicales, etc.). De manière générale, elle cherche également à impliquer le personnel qui ne serait pas membre de la FAU et à développer son protagonisme également (en fonction du contexte, des possibilités, etc.).
+
+2.4 En ce qui concerne les contributions professionnelles ou de solidarité, la FAU défend la position que le montant de celles-ci doit est le plus bas possible et coûter le moins cher possible aux travailleurs et travailleuses concernés. De manière générale elle considère que la participation d’un syndicat à une CCT ne doit pas être financée par des mécanisme de retenues sur les salaires des travailleuses et des travailleurs. LA FAU préfère recourir aux outils comme les décharges syndicales plutôt que les indemnités. Dans les CCT qui fonctionnent avec un système d’indemnités à la séance, elle défend la position que celles-ci ne doivent pas être supérieures à l’équivalent du salaire minimum ou du plus bas salaire, prévu dans la CCT en question, compris net (moyenne pour les déductions qui ne sont pas fixes comme la prévoyance professionnelle) et ramené à l’heure. La FAU s’oppose, en général, aux indemnités de type forfaitaires, sauf s’il est démontré que cela coûterait moins cher aux travailleurs et aux travailleuses. La FAU s’oppose, en général, à ce que les syndicats puissent « offrir » des « services rémunérés » tels que, par exemple, la gestion administrative d’une CCT ou de certains de ses aspects. En d’autres termes, afin de résumer l’esprit général, La FAU s’oppose à ce que les syndicats se financent, directement ou indirectement, à travers les CCT en ponctionnant les salaires des travailleurs et travailleuses. Les travailleurs et les travailleuses qui veulent participer au financement des syndicats, ont la liberté d’y adhérer afin d’y payer des cotisations. En poursuivant l’objectif de réduire à son strict minimum la contribution professionnelle ou de solidarité, la FAU cherche également à mettre fin à la pratique du remboursement de celle-ci par les syndicats à leurs membres. Nous considérons que cette pratique est, la plupart du temps, une entrave à la liberté syndicale, étant donné que seuls les travailleurs et les travailleuses membres de syndicats signataires en bénéficient.
+
+2.5 La FAU agit autant qu’il est possible et raisonnable (suivant les circonstances) avec les autres syndicats concernés par une CCT dont elle est signataire, que ceux-ci en soient signataires ou pas. L’unité des travailleurs et des travailleuses est un des objectifs que vise la FAU. Nous défendons la liberté d’association, le droit syndical pour tous les collectifs de salarié.e.s qui se forment.
+
+2.6 La FAU défend les intérêts de ses membres et de l’ensemble des travailleurs et travailleuses concerné par une CCT. Cependant la FAU vielle, se faisant, à ne pas tomber dans des travers corporatistes et à ne pas défendre des « intérêts catégoriels » au détriment des intérêts d’autres catégories ou de l’ensemble des travailleurs et des travailleuses. La FAU défend les intérêts de tous les travailleurs et de toutes les travailleuses.
+
+2.7 Les divers secteurs de la FAU engagés dans des processus conventionnels, dialoguent et travaillent ensemble et avec le reste de la FAU. Ils ne peuvent pas constituer des « éléments isolés » qui se « contentent de gérer leurs affaires ».
+
+2.8 Dans toutes les situations, la FAU se préoccupe de la question des rapports de force. Elle fait sien le devoir de chercher à se trouver dans les meilleures conditions possibles lorsqu’elle représente les travailleurs et travailleuses et qu’elle négocie leurs conditions de travail et défend leurs intérêts.
+
+
+## 3. Partenariat social
+
+### Avant-propos
+
+Ce chapitre a pour objectif de clarifier les divers cadres dans lesquels la FAU intervient, en particulier ceux en liens avec les Conventions Collectives de travail. Notamment en ce qui concerne les divers rapports et relations avec les acteurs patronaux et syndicaux. Il expose en première partie des éléments de contexte général. Il traite ensuite de la défense de l’intervention de la FAU. Pour finir, dans la dernière partie, il aborde plus spécifiquement les éléments particuliers en rapport avec une CCT.
+Il n’est pas possible ni adéquat de traiter des questions qui suivent sous la forme d’une section classique d’un règlement. Les éléments qui y sont abordés obligent par leur nature à les traiter sous forme d’exposé. Ce chapitre a cependant valeur de règlement dans la mesure où il expose le champ d’intervention de la FAU dans le cadre d’une CCT.
+
+### La question de la critique
+
+Lors de l’Assemblée Générale de 2021, la FAU a décidé de modifier sa charte dont la formulation de sa critique de certaines formes de syndicalisme (« syndicalisme de partenariat social » dans le texte en question) pouvait laisser entendre, suivant la lecture qui en était faite, qu’elle affirmait indirectement être contre le partenariat social. Cette décision d’Assemblée Générale prouve la volonté de la FAU et démontre son orientation en la matière.
+
+Il existe dans ce pays des réalités syndicales qui prétendent incarner à elles-seules ce qu’est le partenariat social. Ce n’est pas nouveau. Certaines conceptions de ces réalités syndicales font et ont fait l’objet de débats, critiques, polémiques et oppositions depuis des décennies. En critiquant le « syndicalisme de partenariat social », la FAU fait simplement usage d’une des terminologies courantes dans les cercles syndicaux et de la gauche politique qui désignent ces courants syndicaux spécifiques. Une autre terminologie courante, par exemple, est celle de « syndicalisme de paix sociale ».
+
+L’usage de ces terminologies, ou d’autres, est courant, dépasse largement le cadre de la FAU et ne saurait autoriser d’en déduire une définition en tant que telle d’une position ou d’une autre de la FAU par rapport au partenariat social, à la paix sociale ou à d’autres questions.
+
+Ceci a été une évidence pour tout le monde des décennies durant. Si la FAU en 2021 prend la décision de modifier sa charte, ce n’est pas parce ses pratiques, ses orientations et ses positions auraient radicalement changées. C’est parce qu’elle a justement observé un glissement dans le débat.
+
+Les débats, les désaccords, les disputes, les polémiques, etc. ont toujours été accompagnées de leur lot de mauvaise foi. Même si nous avons à la FAU une volonté générale de ne pas y avoir recours, nous sommes humains et il nous arrive de temps à autre d’y succomber nous aussi comme tout le monde. Nous ne sommes pas parfaits et nous ne prétendons pas l’être. Nous avons simplement la volonté de faire au mieux.
+
+Cependant, ces dernières années, des lignes rouges sont régulièrement franchies par certains secteurs du syndicalisme. Des éléments de débats ou de critiques (parfois polémiques, c’est un fait) sont désormais utilisés pour affaiblir matériellement l’intervention syndicale, les droits de représentations et tout ce qui compose l’ensemble des droits syndicaux et libertés fondamentales des organisations syndicales « rivales ».
+
+Ce sont des « coups en dessous de la ceinture ». C’est aussi le franchissement d’un seuil particulièrement répugnant dans la pratique de la mauvaise foi. Nous sommes là au-delà des « glissements » que tout un chacun peut commettre à l’occasion.
+
+Mais il y a bien pire. Recourir à cette tactique met significativement en danger les libertés et droits syndicaux fondamentaux de toutes et tous.
+
+Ceci est la raison pour laquelle la FAU refuse d’y recourir. LA FAU doit dans son action, sa parole et son intervention générale toujours veiller à ne pas utiliser les critiques, voire les reproches, qu’elle peut avoir à l’encontre d’un courant, secteur, voire d’une organisation syndicale en particulier d’une manière qui porterait atteintes aux libertés syndicales.
+
+Dans le même esprit, les critiques et les reproches qu’il peut exister de la part de la FAU, ou de certains de ses membres à l’encontre de courants, secteurs, voire d’organisations syndicales en particulier ne sont pas des raisons suffisantes pour que la FAU refuse de travailler en bonne intelligence et dans les meilleurs rapports possibles avec ces courants, secteurs ou organisations syndicales. Cela n’a d’ailleurs jamais été la pratique de la FAU.
+
+La FAU est cependant en droit d’exiger d’être traitée et considérée en égale comme condition pour un travail commun.
+
+### Plus spécifiquement concernant le partenariat social
+
+Le partenariat social est un fait. Il englobe des réalités et des situations multiples. Il concerne à la fois les syndicats et autres associations de travailleurs d’un côté et les diverses organisations patronales et les employeurs en général de l’autre. Il englobe toute la variété des rapports et de relations qui peuvent exister entre eux. La FAU est un syndicat de travailleurs et de travailleuses (au sens large). Dans son intervention, elle est amenée notamment à conseiller, défendre, accompagner et représenter ses membres et les travailleurs et travailleuses qui lui en donnent le mandat.
+
+La défense des intérêts des travailleurs et travailleuses, qu’elle soit individuelle, collective ou encore générale. La représentation, la négociation, l’accompagnement, les mandats et toutes autres formes par lesquelles nous sommes habilités ou légitimés à intervenir auprès des employeurs ou des divers acteurs ou instances représentants des employeurs ou auxquelles participent des employeurs. Tout ceci implique rapports et relations qui sont constitutifs du partenariat social.
+
+Au cours de l’histoire, L’Etat a été appelé à légiférer sur le travail. Il est donc devenu lui aussi un acteur dans les rapports de travail. Les partenaires sociaux, sont dénommés ainsi afin de distinguer employeurs et syndicats (au sens large) de l’Etat et autres institutions. Cela s’inscrit dans la tradition historique qu’ont les patrons et les travailleurs de régler les différents directement entre eux. L’Etat est donc devenu un acteur, mais ni de premier recours, ni de premier plan, puisqu’il est encore largement admis de nos jours, que dans la plupart des situations, patronat et syndicat règlent eux-mêmes leurs affaires.
+
+C’est un fait qui nous arrange bien, puisqu’il a le mérite d’être en complète cohérence avec un des principes fondamentaux et traditionnels du syndicalisme historique et de la FAU en particulier, qui nous est cher, l’action directe. C’est-à-dire agir par nous-mêmes.
+
+Tous les acteurs du partenariat social, qu’ils soient employeurs, représentants des employeurs ou qu’ils soient représentants des travailleurs, agissent dans les divers cadres définis par le droit, la jurisprudence, les lois et autres ordonnances d’une part, et par les divers règlements, accords et conventions de l’autre. Du contrat de travail jusqu’aux arrêtés du Tribunal fédéral, ce sont de nombreuses dispositions qui s’appliquent, parfois à l’ensemble des rapports, et d’autres à des rapports particuliers (au sein d’une branche, d’un secteur, d’une entreprise ou sur un territoire défini). Ces cadres définissent les droits et les devoirs de chacun, certains sont plus contraignants que d’autres. Il est cependant important de relever que les diverses infractions éventuellement commises par les divers acteurs ne remettent pas en cause leur qualité de partenaire sociaux. C’est un élément important à noter dans le cadre de l’activité syndicale qui est celle de la FAU, non pas dans l’objectif d’encourager à commettre des infractions, mais parce que la FAU qui n’a jusqu’à présent encore jamais commis d’infraction est régulièrement attaquée sur sa qualité de partenaire social sur la seule base de ses orientations et des critiques qu’elle émet (dont l’interprétation est souvent tirée par les cheveux) par des acteurs patronaux ou syndicaux.
+
+Il y a également certains patronaux ou syndicaux qui cherchent parfois à torde les faits et à exclure la FAU en prenant prétexte de dispositions qui n’existent tout simplement pas ou dont l’étendue n’est factuellement pas celle à laquelle ils prétendent que nous devrions (nous seuls, évidement) nous soumettre 
+
+De nos jours, une personne catholique peut ouvertement critiquer le Pape sans risquer l’excommunication. Le partenariat social n’est pas une religion. Dans une société qui se veut démocratique, il devrait être du devoir de tous les partenaires sociaux, qu’ils soient syndicaux ou patronaux, de défendre le droit à la critique. Lorsque des syndicats, usent du prétexte de la critique pour tenter de « disqualifier » un autre syndicat, ils jouent à un jeu dangereux qui peut avoir des conséquences graves sur les droits démocratiques et libertés fondamentales. 
+
+Dans tous les syndicats, y-compris ceux de l’USS, nous pouvons trouver des publications, des articles, des prises de positions, des interventions, etc., qui critiquent tant le partenariat social que la paix du travail. Cela n’empêche pas ces mêmes syndicats de continuer à être des partenaires sociaux, ni même à signer des CCT. De la même manière, des employeurs et des représentants du patronat s’en prennent eux aussi à certains aspects du partenariat social ou de la paix du travail et là non plus ils ne sont pas empêchés d’être des partenaires sociaux ou à signer des CCT.
+
+Pour prendre en exemple un autre sujet. Les syndicats « traditionnels » qui émergent de l’impulsion de la 1er Internationale, dont la FAU et l’USS sont héritiers des deux plus grand courants, avaient pour objectif final l’abolition du salariat. Ceci ne les empêchait pas pour autant de défendre avec acharnement le salaire. Il est donc totalement absurde qu’un syndicat prétende que la FAU ne puisse pas être un partenaire social parce qu’elle critiquerait le partenariat social ou la paix sociale ou certains de leurs aspects. De la même manière que la fin du salariat, la fin du partenariat social implique une transformation profonde des rapports sociaux. Souhaiter une telle transformation, voire avoir la prétention ou l’intention d’y contribuer, n’empêche absolument pas d’être un partenaire social dans l’intervalle.
+
+Au-delà même de la critique du partenariat social et de la paix du travail ou de certains de leurs aspects, nous observons également régulièrement des partenaires sociaux de part et d’autre critiquer, ou encore attaquer durement, un partenaire ou un autre, voire l’ensemble des partenaires (de « l’autre bord ») ou ceux qu’ils représentent (les patrons ou les travailleurs). Là non plus, sans qu’il n’y ait aucune conséquence matérielle sur leur qualité de partenaires sociaux. Il peut y avoir des dénonciations, voire des condamnations de tribunaux visant des propos ou des actes. Il peut y avoir refus d’un ou certains partenaires de dialoguer ou rencontrer un tel ou un autre pendant un certain temps. Mais c’est à peu près tout.
+
+Il ne faut pas se méprendre. Ce n’est pas que certains acteurs bénéficieraient de passe-droits, qu’ils seraient en quelque sorte « au-dessus des lois ». Non, c’est beaucoup plus simple. C’est que tout ceci, n’est pas « interdit ». Nous le répétons, le partenariat est un fait et bien que les rapports soient formalisés ou normés à des degrés divers, même lors « d’infractions », celles-ci ne changent pas le fait. D’ailleurs, bien souvent, lorsque d’éventuels propos tenus par un partenaire social, qu’il soit syndical ou patronal, et que ceux-ci outrepassent certaines normes, celles-ci ne sont pas des normes qui régissent le « monde du travail » (diffamation, atteinte à l’honneur etc.). Et il est même admis par le Tribunal fédéral que dans le cadre d’un conflit de travail, outrepasser dans une certaines mesures ces normes-là relève de la « normalité », c’est-à-dire que c’est chose « admise ».
+
+Même les infractions aux dispositions de CCT, fréquentes, il est vrai, dans certaines branches, du côté du patronat, plus rares, mais peut-être plus « spectaculaires » de la part des syndicats, n’abolissent pas la réalité du partenariat social et ne révoquent pas la qualité de partenaire social de l’un ou de l’autre. Les infractions commises par un employeur, si elles sont avérées formellement, font en général l’objet de sanctions (souvent pécuniaires) et peuvent dans certaines CCT faire perdre à une entreprise son statut de « conformité ». Un syndicat commettant une infraction peut quant à lui également risquer une amende. Cela a par exemple été l’objet de discussions il y a quelques années lorsque UNIA n’avait pas respecté les éléments de procédure formels à l’occasion d’un mouvement de grève dans le bâtiment (secteur qui est encadré par une CCT où la paix du travail est absolue).
+
+### Comment agir et comment nous défendre
+
+Nous voyons donc qu’aucun des arguments habituellement utilisés par des syndicats ou des employeurs pour affirmer que la FAU ne peut en aucune manière prendre part au partenariat social ou être un partenaire social ne sont que des prétextes. Ceux-ci visent en général à semer le doute parmi nos membres et les travailleurs et travailleuses auprès desquels nous intervenons. Il est important de veiller à ne pas laisser de telles manœuvres atteindre cet objectif. Nous défendre, même vigoureusement, contre de telles manœuvres est une nécessité. Nous devons cependant veiller, lorsque nous devons nous défendre de telles attaques venant de syndicats, à ce que nous laissions, autant que la situation le permette, la porte ouverte à ce ou ces syndicats à collaborer avec nous dans l’intérêt de l’ensemble des travailleurs et des travailleuses, mais sans que cela signifie pour nous de renoncer à ce que la FAU soit traitée en « égale ». Nous devons également veiller à faire la part des choses, même lorsque nous sommes sujets à ce genre d’attaques. Un syndicat avec lequel nous sommes en désaccord reste un syndicat. Un syndicat dont un secteur nous attaque reste un syndicat. Un syndicat dont nous pensons que les conceptions ou orientations nuisent aux intérêts des travailleurs et des travailleuses reste un syndicat. C’est-à-dire une organisation de travailleurs et de travailleuses. Nous ne devons jamais nous en prendre ni à ces travailleurs et travailleuses, ni à la qualité même de syndicat de cette organisation, ni porter atteinte à l’exercice de ses droits syndicaux et libertés fondamentales.
+
+### La question des CCT
+
+Pour finir et arriver finalement à l’objet de ce chapitre, qu’en est-il donc concrètement en ce qui regarde le cadre des Conventions Collectives de Travail ?
+
+Les CCT ajoutent simplement certaines dispositions à celles déjà existantes dans les rapports qui régissent « le monde du travail ». Elles posent des cadres formels où se tiennent les rapports entre les divers signataires. La plupart du temps ces cadres incluent des dispositions comme la paix du travail. En outre, le SECO a également établi une série de dispositions qui s’appliquent aux syndicats. Parmi celles-ci, une concerne « la loyauté » et l’autre « la disposition au conflit ».
+
+La loyauté implique une aptitude à respecter les engagements pris et traiter avec bonne foi (comme c’est, par exemple, le cas au tribunal également). Elle n’implique pas de « soumission », ni de « renonciation » quelles qu’elles soient. Elle signifie simplement que la parole (la signature) de la FAU a de la « valeur ». La loyauté ici prend le sens de respect envers les accords passés.
+
+La disposition au conflit clarifie très justement ce que signifie « la loyauté » et ce qu’elle ne signifie pas. Un syndicat qui veut signer une CCT, doit être disposé à recourir au conflit pour défendre les intérêts des travailleurs et travailleuses qu’il représente. On a là aussi un élément de loyauté, mais dans le sens fidélité et dévouement envers nos membres et les travailleurs et travailleuses que nous représentons. Dans le cadre d’une CCT, les partenaires sociaux passent des accords, ils nous engagent pour la durée convenue. Hors de la matière négociée et de la période convenue, il n’y a pas d’accord et pas de « loyauté ».
+
+Ces dispositions du SECO illustrent bien la tension qui traverse la réalité du partenariat social et des rapports en général dans le « monde du travail ». Dans le partenariat social, les parties cherchent à s’accorder en y trouvant chacune « son intérêt ». L’accord ne signifie pas que les parties ont des intérêts communs, mais que chacune a pu y trouver ses propres intérêts. Le partenariat social est donc traversé à la fois par l’accord et le désaccord. La négociation est certes le premier recours et c’est l’objet également d’une CCT que d’encadrer celle-ci, mais il est convenu que la négociation peut impliquer certains degrés de conflictualité et que si elle ne parvient pas à l’accord, la situation peut conduire à la confrontation. C’est d’ailleurs pour cela que toutes les CCT contiennent des dispositions qui permettent de rompre la paix du travail. Pour la plupart, par le recours en premier lieu à des « conciliateurs », dans le cadre de procédures définies à l'avance. Et par la dénonciation abrupte et unilatérale pour les CCT qui contraignent explicitement à la paix du travail absolue. C’est aussi pour cela que les dispositions concernant la paix du travail se concentrent essentiellement sur le recours à la grève, qui est la mesure de confrontation ultime des syndicats. »
