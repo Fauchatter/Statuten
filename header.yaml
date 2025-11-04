@@ -1,0 +1,13 @@
+title: "Statuten der FAU Schweiz"
+subtitle: "Fassung vom 1. November 2025"
+author: "Freie Arbeiter*innen-Union Schweiz"
+date: "2025-11-01"
+geometry: "margin=2.5cm"
+mainfont: "DejaVu Serif"
+fontsize: "12pt"
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[L]{FAU Schweiz}
+  - \fancyhead[R]{Statuten 2025}
+  - \renewcommand{\headrulewidth}{0.4pt}
