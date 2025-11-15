@@ -1,15 +1,12 @@
 # Statuts de la FAU Suisse
 
-(adoptés lors de l'assemblée générale de la FAU Suisse du 15 mai 2021. Complétés lors de l' assemblées générales 
-- du 4 novembre 2023 
-- du 2 novembre 2024
-- du 1 novembre 2025
-)
+Adoptés lors de l'assemblée générale de la FAU Suisse du 15 mai 2021. Complétés lors de l' assemblée générale du:
+- 4 novembre 2023
+- 2 novembre 2024
 
 
 # 1 Préambule
 La Freie Arbeiter*innen Union (FAU) est un syndicat anarcho-syndicaliste. En tant que telle, la FAU est une organisation militante d'entraide pour les salarié·e·s, qui repose sur les principes fondamentaux de solidarité, d'entraide et d'action directe et qui a pour objectif le socialisme libertaire.
-La FAU représente les intérêts de ses membres, en particulier dans le monde du travail, et lutte pour de meilleures conditions de travail. La FAU peut représenter ses membres, par exemple pour signer en leur nom des conventions collectives (conventions collectives de travail).
 Pour l’instant (état au 26 novembre 2022), ces principes renvoient à la déclaration des principes du syndicalisme de Rudolf Rocker.
 
 # 2 Forme juridique
@@ -69,10 +66,10 @@ Les syndicats locaux sont subdivisés en un syndicat général, ainsi que, le ca
 Lorsque le nombre des membres est trop bas ou leur activité trop faible, ou que d'autres raisons plaident en faveur d'une fusion à plus grande échelle, les membres peuvent se regrouper en syndicats régionaux. Ceux-ci sont sur un pied d’égalité avec les syndicats sectoriels et locaux.
 
 6.2.3   
-Les sections professionnelles sont affiliées à des syndicats locaux et peuvent être fondées par cinq membres d'un syndicat local. Une section professionnelle n'est active que si elle participe au syndicat local correspondant. Les syndicats professionnels sont des fédérations de sections professionnelles et peuvent être fondés par au moins deux sections professionnelles actives. 
+Les sections sectorielles et les syndicats de la FAJ peuvent être créés par au moins cinq membres d'un syndicat local appartenant au même secteur ou à la même tranche d'âge.
 
 6.2.4   
-La Freie Arbeiter*innen Jugend (FAJ) est l'organisation de jeunesse de la FAU. Tous les membres âgés de moins de 25 ans ou en formation (dans des écoles primaires, secondaires et supérieures ou dans le cadre d'un contrat de travail à des fins de formation) font partie de la FAJ. Cinq membres de la FAJ de la même région peuvent fonder une nouvelle section.
+La Freie Arbeiter*innen Jugend (FAJ) est l'organisation de jeunesse de la FAU. Tous les membres âgés de moins de 25 ans ou en formation (dans des écoles primaires, secondaires et supérieures ou dans le cadre d'un contrat de travail à des fins de formation) font partie de la FAJ.
 
 6.2.5   
 La FAJ Suisse est sur un pied d’égalité avec les syndicats sectoriels en matière de droits et d'obligations.
@@ -84,7 +81,7 @@ Lorsqu'il n'existe pas de syndicat local, le syndicat régional ou local le plus
 Les régions originales de la FAU: Centre (Berne, Soleure, Bâle, Valais, Fribourg), Romandie (Suisse francophone), Suisse centrale (Lucerne, Zoug, Unterwald, Schwyz, Uri, Tessin) et Est (Zurich, Argovie, Thurgovie, Saint-Gall, Grisons, Appenzell, Glaris, Schaffhouse) sont dissoutes. Les régions actuellement existantes sont libres de continuer à fonctionner comme des syndicats régionaux égaux à des syndicats locaux ou alors de se dissoudre.
 
 6.4     
-Les syndicats locaux ne peuvent être désignés que par décision de l'AG. Pour cela, ils doivent être présentés sous forme d'initiative à l'AG. Au minimum sept membres de la FAU Suisse issus de la même région peuvent se regrouper pour former une initiative syndicale. Celle-ci ne peut se présenter à l'AG que si ses membres ont organisé au moins deux formations sur le travail syndical et/ou le droit du travail et qu’ils ont travaillé pendant au moins six mois dans le domaine du travail syndical dans un syndicat local existant.
+Au moins cinq membres affiliés à l'USS Suisse provenant de la même région ont le droit de fonder leur propre syndicat régional ou local. Les syndicats peuvent être fondés en cours d'année et sont confirmés formellement lors de l'assemblée générale suivante.
 
 
 # 7 Réunions
@@ -105,28 +102,19 @@ Les réunions sont présidées et font l'objet d'un procès-verbal. Ces fonction
 # 8 Assemblée des délégué.e.s
 
 8.1     
-L'assemblée des délégué.e.s est l'instance d'échange et de décision pour les affaires opérationnelles. Elle est également l'organe directeur fédéral de la FAU Suisse entre les assemblées générales.
+L'assemblée des délégué.e.s est l'instance d'échange et de décision pour les affaires opérationnelles.
 
 8.2     
 Les réunions ont lieu tous les deux mois et les syndicats locaux, régionaux et sectoriels délèguent chacun 1 à 2 membres.
 
 8.3     
-Lors des votes à l'assemblée des délégué.e.s, chaque syndicat dispose d'une voix. La voix est répartie proportionnellement selon le nombre de personnes qui votent pour et contre. Si, par exemple, 10 membres d'un syndicat participent à un vote et que 4 membres votent pour et 3 contre une proposition, le syndicat local présente - par l'intermédiaire de ses délégués.e.s à l'assemblée des délégués.e.s - 0,4 voix pour et 0,3 voix contre cette proposition.
+Chaque syndicat dispose de 3 voix afin de représenter également les minorités. Les voix sont réparties comme suit : si plus de 30 % sont pour ou contre, une seule voix est exprimée; si plus de 50 % sont pour ou contre, 2 voix sont exprimées; et si plus de 70 % sont pour ou contre, les trois voix sont exprimées pour la majorité.
 
 8.4     
 Lors des assemblées des délégué.e.s, une majorité simple suffit, plus de 50 % des voix des délégué.e.s doivent être pour ou contre une décision.
 
 8.5     
 La FAUKo organise l'assemblée des délégué.e.s et assure ainsi la circulation de l'information entre les syndicats.
-
-8.6 
-L'assemblée des délégué.e.s prend des décisions dans le cadre des dispositions statutaires et des résolutions de l'assemblée générale.
-
-8.7     
-L'assemblée des délégué.e.s définit et précise les mandats des fonctions de la FAU-Ko en concertation avec les mandataires concerné.e.s. Elle peut nommer à titre provisoire des membres de la FAU-Ko dont le mandat est valable jusqu'à la prochaine assemblée générale.
-
-8.8     
-L'assemblée des délégué·e·s peut prendre des décisions que la FAU-Ko est tenue d'exécuter. Cette exécution s'effectue dans le cadre d'un mandat impératif.
 
 # 9 Assemblées générales
 
@@ -152,9 +140,6 @@ soumettre un mandat écrit.
 9.7     
 Lors des assemblées générales, les décisions sont prises à la majorité des trois quarts de toutes les voix (y compris les mandats écrits). Il convient toutefois de s'efforcer de trouver un consensus.
 
-9.8     
-Lors de chaque assemblée générale ordinaire, la liste actuelle des syndicats actifs ainsi que des organes qui disposent d'une autonomie fonctionnelle totale ou partielle conformément à l'art. 15 est confirmée et mise à jour. La FAU-Ko veille à ce que ces listes soient mises à disposition pour consultation avant l'assemblée générale.
-
 # 10 Coordination
 10.1    
 La Coordination FAU Suisse (FAUKo) est un organe permanent de la FAU Suisse.
@@ -179,18 +164,6 @@ La FAUKo est responsable des tâches suivantes au plus haut niveau de la fédér
 
 10.5    
 La FAUKo n'a aucun pouvoir de décision en dehors du mandat défini et correspond à un service d'état-major au plus haut niveau de la fédération, la FAU Suisse.
-
-10.6    
-La FAU-Ko est l'organe administratif et technique de la FAU Suisse. Elle est l'organe statutaire qui correspond à un comité directeur dans le droit des associations. Elle agit exclusivement dans le cadre des mandats confiés par l'assemblée générale et l'assemblée des délégué.e.s.
-
-10.7    
-La FAU-Ko n'assume aucune fonction de direction au sens politique ou stratégique, mais exécute les décisions, assure la circulation de l'information et peut représenter la FAU Suisse vers l'extérieur lorsque cela est nécessaire à l'accomplissement de ses tâches ou lorsqu'elle y est mandatée par les syndicats ou l'assemblée des délégué.e.s.
-
-10.8    
-La FAU-Ko peut signer des documents, des accords ou des procurations au nom de la FAU Suisse, pour autant que cela soit couvert par les statuts, les règlements ou les décisions de l'assemblée générale ou de l'assemblée des délégué.e.s.
-
-10.9    
-L'assemblée des délégué.e.s et les syndicats veillent à ce que la FAU-Ko dispose des moyens matériels et humains nécessaires à l'accomplissement de ses tâches. La FAU-Ko rend compte de ses activités à l'assemblée des délégué.e.s à la demande des syndicats/AD ou de sa propre initiative. 10.10 L'assemblée générale peut déléguer à l'assemblée des délégué.e.s sa compétence pour l'élaboration ou la définition des fonctions et des mandats de la FAU-Ko pour certaines fonctions et pour une durée maximale d'un an.
 
 # 11 Langue
 
@@ -224,41 +197,6 @@ Les membres en conflit décident des tactiques à adopter dans le cadre du confl
 
 13.2    
 La FAU Suisse soutient les membres en conflit par tous les moyens à sa disposition.
-
-13.3    
-Les conditions dans lesquelles la FAU peut signer et conclure des conventions collectives (notamment des conventions collectives de travail) sont définies dans l'annexe aux statuts «Règlement CCT». Les éléments relatifs aux procédures, aux mandats, à l'administration, aux lignes directrices générales et à d'autres questions sont également définis dans cette annexe. Les syndicats au sein de la FAU peuvent signer et conclure des conventions collectives dans ces conditions.
-
-
-# 14 Représentations et règlement relatif aux signatures 
-
-14.1    
-La FAU Suisse est représentée collectivement par deux membres de la FAU-Ko élus par l'assemblée générale.
-
-14.2    
-À la demande de l'assemblée des délégué.e.s ou d'un syndicat, la FAU-Ko peut habiliter des personnes supplémentaires à signer des actes spécifiques.
-
-14.3    
-Les syndicats peuvent élire des représentant·e·s ayant le droit de signature conformément à leurs propres règlements. Ces élections ont lieu lors d'une assemblée plénière ordinaire du syndicat concerné; le point de l'ordre du jour «Élection des personnes habilitées à signer» doit être expressément annoncé dans l'invitation. L'invitation doit être envoyée personnellement à chaque membre du syndicat au moins 14 jours avant la réunion; les annonces généralisées ne suffisent pas. Ces élections sont valables pour une durée maximale d'un an.
-
-14.4    
-Une fois l'élection terminée, le syndicat transmet le procès-verbal de l'élection à la FAU-Ko dans un délai de 14 jours. La FAU-Ko accuse réception, fait contresigner le procès-verbal par deux de ses membres et envoie au syndicat une copie du procès-verbal contresigné ainsi qu'un document écrit confirmant la validité du droit de signature. Cette confirmation sert de justificatif au syndicat vis-à-vis de tiers (par exemple banques, autorités).
-
-14.5    
-L'assemblée des délégué·e·s ne peut pas élire de représentant·e·s annuel.le.s permanent.e.s avec un droit de signature forfaitaire; elle ne désigne des représentant·e·s qu'au cas par cas et exclusivement pour des actes de signature concrets et spécifiques. 14.6 Chaque signature est effectuée conformément aux statuts, règlements et décisions de la FAU Suisse. Les dispositions réglementaires ou statutaires divergentes prévalent si elles définissent des procédures spécifiques pour certains actes de signature. 
-
-# 15 Autonomie des syndicats
-
-15.1    
-Les syndicats locaux, régionaux et sectoriels de la FAU Suisse disposent d'une autonomie fonctionnelle dans le cadre des dispositions statutaires. 
-
-15.2    
-Les syndicats locaux, régionaux et sectoriels de la FAU Suisse peuvent tenir leurs propres comptes, conclure des contrats et adopter leurs propres règlements, pour autant que ceux-ci soient conformes aux statuts de la FAU Suisse. Ces actions sont effectuées au nom de la FAU Suisse. 
-
-15.3    
-Les règlements propres aux syndicats ne doivent pas être en contradiction avec les statuts de la FAU Suisse. En cas de conflit, les statuts de la FAU Suisse prévalent. 
-
-15.4    
-Si un organe a des tâches ou des compétences qui exigent une autonomie similaire ou partielle comme celle des syndicats – et qui sont donc soumises aux dispositions de l'article 15 –, une demande doit être adressée à l'assemblée des délégué.e.s. L'assemblée des délégué.e.s décide, sur la base des statuts, des dispositions, des règlements et des éventuelles décisions de l'assemblée générale, du degré d'autonomie accordé à cet organe. 
 
 
 -- Fin --
